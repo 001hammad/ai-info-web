@@ -19,18 +19,18 @@ const Hero = () => {
           <h2 className="font-bold mt-2">
             Mark Zuckerberg (Co-founder, Facebook)
           </h2>
-          <p>"The biggest risk is not taking any risk."</p>
+          <p>&apos;The biggest risk is not taking any risk.&apos;</p>
 
           <h2 className="font-bold mt-5">Bill Gates (Co-founder, Microsoft)</h2>
           <p>
-            "Success is a lousy teacher. It seduces smart people into thinking
-            they can't lose."
+            &apos;Success is a lousy teacher. It seduces smart people into thinking
+            they can&apos;t lose.&apos;
           </p>
 
           <h2 className="font-bold mt-5">Elon Musk (Founder, Tesla, SpaceX)</h2>
           <p>
-            "When something's important enough, you do it even if the odds are
-            against you."
+            &apos;When something&apos;s important enough, you do it even if the odds are
+            against you.&apos;
           </p>
         </div>
 
@@ -65,7 +65,7 @@ const Hero = () => {
             skills can take you from a beginner to a seasoned professional,
             opening doors to new career paths and opportunities. With coding,
             you can transform industries, solve complex problems, and create a
-            better world. Don't just dream about the future code it!
+            better world. Don&apos;t just dream about the future code it!
           </p>
         </div>
       </div>
@@ -83,7 +83,7 @@ const Hero = () => {
           <h2 className=" font-bold sm:text-3xl sm:mt-14 sm:text-start text-center">Coding Tips</h2>
           <p className="sm:w-96 mt-10 sm:mr-32 sm:ml-0 ml-10 sm:text-end text-center">
             {" "}
-            <b>1)</b> Practice coding daily, even if it's just for 15 minutes.
+            <b>1)</b> Practice coding daily, even if it&apos;s just for 15 minutes.
           </p>
           <p className="sm:w-96 mt-10 mr-32 sm:ml-0 ml-24 sm:text-end text-center">
             {" "}
@@ -115,7 +115,7 @@ const Hero = () => {
           </h1>
           <p className="sm:w-96 mt-10  ml-5">
             Programming is a mind-bending game of logic, creativity, and
-            innovation. It's a challenge to tame the chaos of code, to transform
+            innovation. It&apos;s a challenge to tame the chaos of code, to transform
             complexity into simplicity, and to breathe life into digital
             creations. With each problem solved, each bug squashed, and each
             feature implemented, the programmer experiences a rush of
@@ -173,7 +173,7 @@ const Hero = () => {
           familiarity with computer systems and software can provide a head
           start. However, programming skills can be developed through online
           courses, tutorials, and self-study. Many successful programmers are
-          self-taught and have learned through hands-on experience. What's
+          self-taught and have learned through hands-on experience. What&apos;s
           essential is a willingness to learn, problem-solve, and continuously
           update your skills.
         </p>
@@ -194,11 +194,11 @@ const Hero = () => {
             Programming: A Game-Changer for Your Future
           </h2>
           <p className="sm:w-96 w-56 sm:mt-10 sm:ml-0 ml-24 sm:text-justify text-center">
-            Programming is more than just writing code; it's a life-changing
+            Programming is more than just writing code; it&apos;s a life-changing
             experience that can open doors to new opportunities, transform your
             career, and unlock your potential. With programming skills, you can
             create innovative solutions, solve real-world problems, and make a
-            meaningful impact. Whether you're a student, professional, or
+            meaningful impact. Whether you&apos;re a student, professional, or
             entrepreneur, coding can elevate your career, boost your confidence,
             and enhance your creativity. From building life-saving apps to
             revolutionizing industries, programming has the power to change

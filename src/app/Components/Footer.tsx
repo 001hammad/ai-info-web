@@ -1,5 +1,4 @@
-import React from 'react'
-import Link from 'next/link';
+import React from 'react';
 
           // ------------------------------OUR FOOTER SECTION----------------------- 
 const Footer = () => {
